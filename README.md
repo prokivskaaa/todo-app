@@ -1,4 +1,4 @@
-# Museum landing page
+# React Todo-app
 
 [DEMO LINK](https://prokivskaaa.github.io/react_todo-app-with-api/)
 
